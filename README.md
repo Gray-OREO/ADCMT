@@ -31,9 +31,9 @@ ADCMT tackles the complex multi-source distortions in user-generated videos with
 
 2. 数据集准备 / Prepare Datasets
 
-本项目支持 KoNViD-1k、CVD2014、LIVE-Qualcomm、LIVE-VQC、YouTube-UGC、LSVQ-Subset 等主流 UGC-VQA 数据集。**请首先离线提取帧级视频特征，并根据 `data/` 目录下的元文件进行数据集划分与管理** 本项目的文件结构如下所示：
+   本项目支持 KoNViD-1k、CVD2014、LIVE-Qualcomm、LIVE-VQC、YouTube-UGC、LSVQ-Subset 等主流 UGC-VQA 数据集。**请首先离线提取帧级视频特征，并根据 `data/` 目录下的元文件进行数据集划分与管理** 本项目的文件结构如下所示：
 
-This project supports mainstream UGC-VQA datasets, including KoNViD-1k, CVD2014, LIVE-Qualcomm, LIVE-VQC, YouTube-UGC, and LSVQ-Subset. **Please extract frame-level video features offline in advance, and organize dataset splits and management according to the meta files provided under the `data/` directory.** The file structure of this project is organized as follows:
+   This project supports mainstream UGC-VQA datasets, including KoNViD-1k, CVD2014, LIVE-Qualcomm, LIVE-VQC, YouTube-UGC, and LSVQ-Subset. **Please extract frame-level video features offline in advance, and organize dataset splits and management according to the meta files provided under the `data/` directory.** The file structure of this project is organized as follows:
 
    ```bash
    ADCMT/
