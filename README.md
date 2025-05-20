@@ -50,7 +50,7 @@ ADCMT tackles the complex multi-source distortions in user-generated videos with
 
 3. 特征提取 / Feature Extraction
 
-   推荐使用论文同款 ResNet50 进行帧级特征提取，脚本参考 `tools/CNN_feature_generator.py`。
+   推荐使用论文中相同的预训练 ResNet50 进行帧级特征提取，脚本参考 `tools/CNN_feature_generator.py`。
 
    It is recommended to use the same ResNet50 model as in the paper for frame-level feature extraction. Please refer to the script `tools/CNN_feature_generator.py`.
 
