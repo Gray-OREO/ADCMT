@@ -1,12 +1,8 @@
 # ADCMT: An Augmentation-Free Dynamic Contrastive Multi-Task Transformer for UGC-VQA
 
-**Paper**: [ADCMT: An Augmentation-Free Dynamic Contrastive Multi-Task Transformer for UGC-VQA]  
+**Paper**: [ADCMT: An Augmentation-Free Dynamic Contrastive Multi-Task Transformer for UGC-VQA](https://ieeexplore.ieee.org/document/11006507)
 **Authors**: Hui Li, Kaibing Zhang, Jie Li, Xinbo Gao, Guang Shi  
 **Published in**: IEEE Transactions on Broadcasting, 2025  
-**[Paper PDF]([ADCMT: An Augmentation-Free Dynamic Contrastive Multi-Task Transformer for UGC-VQA | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/11006507))**  
-**[Official Code Release](https://github.com/kbzhang0505/ADCMT)**
-
----
 
 ---
 
