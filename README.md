@@ -18,7 +18,7 @@ This repository provides the official implementation and reproduction instructio
 **ADCMT: An Augmentation-Free Dynamic Contrastive Multi-Task Transformer for UGC-VQA**.  
 ADCMT tackles the complex multi-source distortions in user-generated videos without relying on artificial data augmentation, by leveraging a novel multi-task transformer and a dynamic supervised contrastive learning strategy.
 
-![Overall model architecture of ADCMT.](ims/overview.png)
+![Overall model architecture of ADCMT.](ims/overview.jpg)
 
 ---
 
