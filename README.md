@@ -54,6 +54,10 @@ ADCMT tackles the complex multi-source distortions in user-generated videos with
 
    It is recommended to use the same ResNet50 model as in the paper for frame-level feature extraction. Please refer to the script `tools/CNN_feature_generator.py`.
 
+All contrastive experiments are performed on Intel Xeon Silver 4210R CPU and Nvidia RTX3090 GPU.
+
+Noting that the results may be still not the same among different implement devices. See [randomness@Pytorch Docs](https://pytorch.org/docs/stable/notes/randomness.html).
+
 ---
 
 ## III. 引用本论文 / Citation
